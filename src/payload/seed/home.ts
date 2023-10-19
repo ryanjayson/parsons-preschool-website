@@ -23,7 +23,7 @@ export const home: Partial<Page> = {
       {
         children: [
           {
-            text: 'Welcome to your website! ',
+            text: 'Welcome to your websites! ',
           },
           {
             type: 'link',
